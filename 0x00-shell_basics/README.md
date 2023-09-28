@@ -5,4 +5,4 @@ The ls -l is used to display the current contents in a long format
 The ls -la is used to display the current directory contents, including hidden files starting with (.)
 The ls -lan display the current directory content in long format, with user and group IDs displayed numerically and hidden files starting with (.) 
 The mkdir /tmp/my_first_directory creates a directory name my_first_directory in /tmp/
-
+The mv move betty from /tmp/ to /tmp/my_first_directory
