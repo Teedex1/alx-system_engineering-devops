@@ -7,4 +7,5 @@ The ls -lan display the current directory content in long format, with user and 
 The mkdir /tmp/my_first_directory creates a directory name my_first_directory in /tmp/
 The mv move betty from /tmp/ to /tmp/my_first_directory
 The rm /tmp/my_first_directory/betty delete the file betty from /tmp/my_first_directory
-The rm -r /tmp/my_first_directory delete my_first_directory that is in the /tmp directory 
+The rm -r /tmp/my_first_directory delete my_first_directory that is in the /tmp directory
+The cd - changes the working directory to previous one 
