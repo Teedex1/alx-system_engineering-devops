@@ -11,3 +11,4 @@ The rm -r /tmp/my_first_directory delete my_first_directory that is in the /tmp 
 The cd - changes the working directory to previous one
 The ls -la . .. /boot lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
 The file /tmp/iamafile prints the type of the file named iamafile
+The ln -s /bin/ls __ls__ create a symbolic link in the current working directory
