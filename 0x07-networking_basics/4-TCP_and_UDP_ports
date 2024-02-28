@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#Displays listening ports with regard listening sockets
+
+netstat --listening --program
